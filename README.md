@@ -1,2 +1,2 @@
 # AI-For-Trading
-Code repository for Udacity nanodegree program Artificial Intelligence for Trading projects
+This repository contains my implementation of the code projects for Udacity's nanodegree program Artificial Intelligence for Trading.
